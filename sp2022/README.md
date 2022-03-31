@@ -16,8 +16,8 @@ Number of Graduate Lab Assistants(GLA): 6
 
 #### Index of Assistants
 
-(List of GLA)[GLA.md]
-(List of UGTA)[UGTA.md]
+[List of GLA](GLA.md)
+[List of UGTA](UGTA.md)
 
 #### Notes:
   - First time incorporating UGTA program with CS1136
